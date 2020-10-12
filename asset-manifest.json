@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/traincor-site/static/css/main.5f361e03.chunk.css",
+    "main.js": "/traincor-site/static/js/main.edd1e94b.chunk.js",
+    "main.js.map": "/traincor-site/static/js/main.edd1e94b.chunk.js.map",
+    "runtime-main.js": "/traincor-site/static/js/runtime-main.351800f6.js",
+    "runtime-main.js.map": "/traincor-site/static/js/runtime-main.351800f6.js.map",
+    "static/js/2.c65bd1ff.chunk.js": "/traincor-site/static/js/2.c65bd1ff.chunk.js",
+    "static/js/2.c65bd1ff.chunk.js.map": "/traincor-site/static/js/2.c65bd1ff.chunk.js.map",
+    "index.html": "/traincor-site/index.html",
+    "precache-manifest.2514b33e712b635c2bbcac4dc897fd53.js": "/traincor-site/precache-manifest.2514b33e712b635c2bbcac4dc897fd53.js",
+    "service-worker.js": "/traincor-site/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/traincor-site/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c65bd1ff.chunk.js.LICENSE.txt": "/traincor-site/static/js/2.c65bd1ff.chunk.js.LICENSE.txt",
+    "static/media/insta.png": "/traincor-site/static/media/insta.e42aebe3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351800f6.js",
+    "static/js/2.c65bd1ff.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.edd1e94b.chunk.js"
+  ]
+}
